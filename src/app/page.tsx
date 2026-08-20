@@ -1,5 +1,10 @@
 import Navbar from "@/components/navbar";
 import AdBanner from "@/components/adbanner";
+import AppShell from "@/components/appShell";
+import AnalyzerPanel from "@/components/analyzerPanel";
+import Sidebar from "@/components/sidebar";
+import Footer from "@/components/footer";
+
 import AnalyzerPanel from "@/components/analyzerpanel";
 import Sidebar from "@/components/sidebar";
 import Footer from "@/components/footer";

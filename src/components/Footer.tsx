@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import AdBanner from "./AdBanner";
+import AdBanner from "./adbanner";
 import { ExternalLink, Heart } from "lucide-react";
 
 function FacebookIcon({ className }: { className?: string }) {

@@ -1,8 +1,8 @@
-import Navbar from "@/components/Navbar";
-import AdBanner from "@/components/AdBanner";
-import AnalyzerPanel from "@/components/AnalyzerPanel";
-import Sidebar from "@/components/Sidebar";
-import Footer from "@/components/Footer";
+import Navbar from "@/components/navbar";
+import AdBanner from "@/components/adbanner";
+import AnalyzerPanel from "@/components/analyzerpanel";
+import Sidebar from "@/components/sidebar";
+import Footer from "@/components/footer";
 import { Shield, Zap, Globe, TrendingUp } from "lucide-react";
 
 const STATS = [

@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useAuth } from "@/lib/authContext";
+import { useAuth } from "@/lib/authcontext";
 import { LogOut, User } from "lucide-react";
 
 export default function Navbar() {
